@@ -2,3 +2,4 @@ data/
 models/
 .env
 _marimo_
+_marimo_/
